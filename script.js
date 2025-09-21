@@ -45,6 +45,7 @@ navLinks.forEach((link) => {
   link.addEventListener("click", hideNavMenu);
 });
 
+<<<<<<< HEAD
 
 // firebase 
 
@@ -70,3 +71,10 @@ navLinks.forEach((link) => {
   // Initialize Firebase
   const app = initializeApp(firebaseConfig);
   const analytics = getAnalytics(app);
+=======
+// fire base lines 
+
+
+
+
+>>>>>>> ffae403bdb20faf89a4a5520cb93e411ae37c842
