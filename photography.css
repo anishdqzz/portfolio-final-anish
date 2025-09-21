@@ -67,3 +67,8 @@ i{
     color: white;
     cursor: pointer;
 }
+.preview span:hover {
+    color: #f10101;
+    transition: 0.5s;
+
+}
